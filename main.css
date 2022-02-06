@@ -27,8 +27,8 @@
     --web-view-id: Marketing_Home;
     --web-scale-on-resize: true;
     --web-enable-deep-linking: true;
-    
 }
+
 @keyframes fadein {
 
     0% {
@@ -283,7 +283,7 @@
     line-height: 34px;
     margin-top: -5px;
     text-align: center;
-    font-family: Noto Sans;
+    font-family: 'Hontana', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -330,7 +330,7 @@
     line-height: 30px;
     margin-top: -3px;
     text-align: center;
-    font-family: Noto Sans;
+	font-family: 'Hontana', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -376,7 +376,7 @@
     line-height: 34px;
     margin-top: -5px;
     text-align: center;
-    font-family: Noto Sans;
+    font-family: Hontana;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -1329,7 +1329,7 @@
     top: 1492px;
     position: absolute;
     overflow: visible;
-    width: 498px;
+    width: 550px;
     height: 119px;
     line-height: 26px;
     margin-top: -5px;
@@ -1366,7 +1366,7 @@
     width: 10px;
     height: 9px;
     text-align: left;
-    font-family: Arial;
+    font-family: Poppins;
     font-style: normal;
     font-weight: normal;
     font-size: 3px;
